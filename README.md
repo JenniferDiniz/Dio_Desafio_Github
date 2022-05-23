@@ -1,2 +1,5 @@
-# Repósitorio  do desafio Git/GitHub da DIO
-Desafio de projeto Git/GitHub
+# Desafio de projeto da Git/GitHub da DIO
+Repo criado para o desafio de projeto
+
+## Links uteis
+
